@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rotikupass/jianfei-pembantu/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/rotikupass/jianfei-pembantu/blob/master/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
